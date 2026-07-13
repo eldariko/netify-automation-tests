@@ -28,11 +28,6 @@ To run with UI mode:
 ```bash
 npx playwright test --ui
 ```
-
-## Test Recording
-
-<video src="./test-recording.webm" width="800" controls></video>
-
 ## Features Implemented
 - Automatic form filling with mock data (Name, Email, Phone, Company, Website).
 - Dropdown selection logic.
