@@ -29,6 +29,9 @@ To run with UI mode:
 npx playwright test --ui
 ```
 
+## Test Recording
+![Test Execution Recording](./test-recording.webm)
+
 ## Features Implemented
 - Automatic form filling with mock data (Name, Email, Phone, Company, Website).
 - Dropdown selection logic.
