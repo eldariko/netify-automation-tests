@@ -30,7 +30,8 @@ npx playwright test --ui
 ```
 
 ## Test Recording
-![Test Execution Recording](./test-recording.webm)
+
+<video src="./test-recording.webm" width="800" controls></video>
 
 ## Features Implemented
 - Automatic form filling with mock data (Name, Email, Phone, Company, Website).
